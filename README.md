@@ -93,7 +93,7 @@
 <p>Проект создавался по макету в Figma</p>
 <p>Технологии, применённые в проекте: HTML5, Sass (SCSS), БЭМ</p>
 <a target="_blank" href="https://github.com/UglyGhoulChrist/healthy-food.git">Code</a></br>
-<a target="_blank" href="https://uglyghoulchrist.github.io/healthy-food/src/">GitHub Pages</a>
+<a target="_blank" href="https://uglyghoulchrist.github.io/healthyFoodHtmlCss/src/">GitHub Pages</a>
 
 <h3>Django</h3>
 <h3>Python</h3>
