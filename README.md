@@ -42,6 +42,7 @@
      React, Reac-Dom, Sass (SCSS), БЭМ, Responsive Layout (отзывчивая верстка), Mobile First, HTML5</p>
 <a target="_blank" href="https://github.com/UglyGhoulChrist/RickAndMortyReactDev.git">Code</a></br>
 <a target="_blank" href="https://uglyghoulchrist.github.io/RickAndMortyReactBuild/">GitHub Pages</a>
+<h2></h2>
 
 <h4>ToDo list</h4>
 
@@ -57,7 +58,7 @@
 <p>Технологии, применённые в проекте:
      React, Reac-Dom, CSS modules, Sass (SCSS), Responsive Layout, Mobile First, HTML5</p>
 <a target="_blank" href="https://uglyghoulchrist.github.io/ToDoBuild/">GitHub Pages</a>
-
+<h2></h2>
 <h4>Персонажи Marvel</h4>
 <p>Первый проект на React. Персонажи Marvel загружаются из файлов. Для каждого персонажа создаётся модальное окно.
      Доработка одноимённого проекта на JavaScript</p>
@@ -65,14 +66,14 @@
      React, Reac-Dom, CSS modules, Sass (SCSS), Responsive Layout, Mobile First, HTML5</p>
 <a target="_blank" href="https://github.com/UglyGhoulChrist/MarvelReactDev.git">Code</a></br>
 <a target="_blank" href="https://uglyghoulchrist.github.io/MarvelReactBuild/">GitHub Pages</a>
-    
+    <h2></h2>
 <h3>JavaScript</h3>
 <h4>Персонажи Marvel</h4>
 <p>Информация загружается по API. Для каждого персонажа создаётся модальное окно</p>
 <p>Технологии, применённые в проекте:
      JavaScript, Bootstrap5, HTML5</p>
 <a target="_blank" href="https://uglyghoulchrist.github.io/Marvel/">GitHub Pages</a>
-
+<h2></h2>
 <h4>Календарь</h4>
 <p>Поставлена задача создать отображение одного месяца календаря для React проекта. Если месяц начинается не с
      понедельника , то необходимо показать даты предыдущего месяца в этой неделе. Аналогично, если месяц заканчивается
@@ -80,7 +81,7 @@
 <p>Технологии, применённые в проекте:
      JavaScript, React</p>
 <a target="_blank" href="https://github.com/UglyGhoulChrist/calendar/blob/master/src/utils/getCalendar.js">Code</a>
-
+<h2></h2>
 <h3>HTML, CSS</h3>
 <h4>Сайт разработки ПО</h4>
 <p>Проект создавался по макету в Adobe Photoshop 2020</p>
@@ -88,16 +89,53 @@
      HTML5, Sass (SCSS), JS, БЭМ, Responsive Layout, Mobile First, Slick-slider, Font Awesome</p>
 <a target="_blank" href="https://github.com/UglyGhoulChrist/limponHtmlCssJs.git">Code</a></br>
 <a target="_blank" href="https://uglyghoulchrist.github.io/limponHtmlCssJs/">GitHub Pages</a>
-
+<h2></h2>
 <h4>Сайт доставки еды</h4>
 <p>Проект создавался по макету в Figma</p>
 <p>Технологии, применённые в проекте: HTML5, Sass (SCSS), БЭМ</p>
 <a target="_blank" href="https://github.com/UglyGhoulChrist/healthy-food.git">Code</a></br>
 <a target="_blank" href="https://uglyghoulchrist.github.io/healthyFoodHtmlCss/src/">GitHub Pages</a>
-
+<h2></h2>
 <h3>Django</h3>
+
+<h4>John</h4>
+<p>Сайт блог/портфолио</p>
+<p>Технологии, применённые в проекте:
+Django, python 3, HTML5, шаблонизатор jinja, Sass (SCSS), JS, jquery, сборщик webpack/gulp</p>
+<a target="_blank" href="https://github.com/UglyGhoulChrist/JohnDjango.git">Code</a></br>
+<a target="_blank" href="https://uglyghoulchrist.pythonanywhere.com">PythonAnyWhere</a></br>
+<h2></h2>
 <h3>Python</h3>
 
+<h4>Игра в города России, пользователь против компьютера</h4>
+<p>Ход пользователя:
+   </br>
+Пользователь начинает игру, называя первый город.
+Если города нет в списке, то говорим ему, что надо назвать другой город.
+Если названный город существует, заносим его в список названных городов.
+Получаем первую букву с которой должен начинаеться следущий ход. </p><p>
+Ход компьютера: </br>
+Выбираем случайным образом город из списка городов,
+заносим его в список названных городов.
+Получаем первую букву с которой должен начинаеться следущий ход.
+Передаём ход пользователю. </p><p>
+Ход игры: </br>
+Ходы игроков выводятся на экран.
+Если городов не осталось, то пользователь выиграл.</p>
+<p>Использовались базовые знания python, работа с файлами, библиотека requests (http-запросы), библиотека bs4 (парсер HTML)</p>
+<a target="_blank" href="https://github.com/UglyGhoulChrist/CitiesGamePython.git">Code</a></br>
+<h2></h2>
+<h4>Симулятор дома. В доме живут люди и коты</h4>
+<p>Люди могут работать, отдыхать и т.д. Коты могут есть, спать и т.д. Нужно прожить 365 дней</p>
+<p>Использовались базовые знания python</p>
+<a target="_blank" href="https://github.com/UglyGhoulChrist/BeavisButtHeadCatCatPython.git">Code</a></br>
+<h2></h2>
+<h4>Игра «Быки и коровы»</h4>
+<p>Правила:
+Компьютер загадывает четырехзначное число, все цифры которого различны (первая цифра числа отлична от нуля). Игроку необходимо разгадать задуманное число. Игрок вводит четырехзначное число c неповторяющимися цифрами, компьютер сообщают о количестве «быков» и «коров» в названном числе «бык» — цифра есть в записи задуманного числа и стоит в той же позиции, что и в задуманном числе «корова» — цифра есть в записи задуманного числа, но не стоит в той же позиции, что и в задуманном числе</p>
+<p>Использовались базовые знания python</p>
+<a target="_blank" href="https://github.com/UglyGhoulChrist/BullsAndCowsGamePython.git">Code</a></br>
+ 
 <div id="socials" align="center">
         <h2>Связаться со мной:</h2>
     </div>
