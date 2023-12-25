@@ -33,6 +33,32 @@
     </div>
 <h2 align="center">Мои проекты:</h2>
 
+<h3>Next.js</h3>
+<h4>QUIZ по JavaScript 'Что будет выведено в консоль?'</h4>
+
+##### Страницы:
+
+- Главная: *Static Site Generation (SSG)*
+    - Карточки вопросов с вариантами ответов. По нажатию на кнопку всплывает модальное окно с правильным ответом и пояснением.
+
+- Админка: *Client-side Rendering (CSR)*
+    - Форма позволяет добавлять новые вопросы. 
+    - Список карточек с вопросом, вариантами ответов, правильным ответом и пояснением. На карточке есть кнопка удаления вопроса.
+
+##### Технологии, применённые в проекте:
+
+- NextJS (client & server)
+- PostgreSQL (on platform Vercel)
+- GitFlow
+- package:
+    - @vercel/postgres
+    - react-hook-form
+    - highlight.js
+
+<a target="_blank" href="https://github.com/UglyGhoulChrist/quiz-nextjs-postgresql.git">Code</a></br>
+<a target="_blank" href="https://quiz-nextjs-postgresql.vercel.app/">Проект на платформе Vercel</a>
+<h2></h2>
+
 <h3>React</h3>
 <h4>Rick and Morty</h4>
 <p>Содержит вкладки: Персонажи, Локации, Эпизоды. Загрузка информации по API. Перемещение по вкладкам происходит без
