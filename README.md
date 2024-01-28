@@ -34,6 +34,57 @@
 <h2 align="center">Мои проекты:</h2>
 
 <h3>Next.js</h3>
+
+<h4>ToDo on NextJS + Zustand</h4>
+
+<a target="_blank" href="https://github.com/UglyGhoulChrist/ToDoDev.git">Доработка проекта React</a></br>
+
+##### Страницы:
+
+- Главная:
+    - Список задач.
+    - Форма добавления новой задачи.
+    - Кнопки управления задачами.
+
+##### Список задач — позволяет: 
+
+- добавлять задачи, 
+- отмечать задачу выполненной,
+- возобновлять задачу,
+- удалять задачу,
+- удалять все задачи,
+- удалять выполненные.
+
+Хранит задачи в LocalStorage браузера.
+
+### Технологии, применённые в проекте:
+
+- NextJS
+- TypeScript
+- Zustand
+    - persist localStorage
+
+<a target="_blank" href="https://github.com/UglyGhoulChrist/todo-nextjs-zustand.git">Code</a></br>
+<a target="_blank" href="https://todo-nextjs-zustand.vercel.app/">Проект на платформе Vercel</a>
+<h2></h2>
+
+<h4>Игра в города России, человек против компьютера</h4>
+
+##### Страницы:
+
+- Главная:
+    - Список названных городов.
+    - Форма ввода города.
+
+##### Технологии, применённые в проекте:
+
+- NextJS (client & server)
+- TypeScript
+
+<a target="_blank" href="https://github.com/UglyGhoulChrist/city-game-nextjs.git">Code</a></br>
+<a target="_blank" href="https://city-game-nextjs.vercel.app/">Проект на платформе Vercel</a>
+<h2></h2>
+
 <h4>QUIZ по JavaScript 'Что будет выведено в консоль?'</h4>
 
 ##### Страницы:
