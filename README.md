@@ -21,7 +21,7 @@
 - telegraf.js
 - TypeScript
 
-[Code](https://github.com/UglyGhoulChrist/tg-bot-quizzes-telegraf-ts)
+[Code](https://github.com/UglyGhoulChrist/tg-bot-quizzes-telegraf-ts)\
 [Проект в телеграм](https://t.me/QuzzesUGC_bot)
 
 ---
@@ -43,7 +43,7 @@
 - TypeScript
 - rollup.js
 
-[Code](https://github.com/UglyGhoulChrist/tg-bot-quiz-js-grammy-ts)
+[Code](https://github.com/UglyGhoulChrist/tg-bot-quiz-js-grammy-ts)\
 [Проект в телеграм](https://t.me/JavaScriptQuiz_bot)
 
 ---
